@@ -2,3 +2,9 @@ theme: jekyll-theme-slate
 remote_theme: pages-themes/slate@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+
+title: Christophe Slim
+description: Christophe has a background in computer science from the American University of Paris as well as in IT/IP law from the University of Paris Saclay.
+
+He has worked as an in-house lawyer and business developer for the French Atomic and Alternative Energy Commission around the topics of digital trust and currently works for Innovation Norway, supporting French competitiveness through French-Norwegian collaboration.
