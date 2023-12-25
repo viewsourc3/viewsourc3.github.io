@@ -8,11 +8,6 @@ He has worked as an in-house lawyer and business developer for the French <a hre
 <span style="color:grey">CONTACT</span> <br>
 
 
-| 
-<iframe width='100%' height='400px' src="https://api.mapbox.com/styles/v1/chrisatmap/clqdjwxk300dw01qv1mu6cx9m.html?title=false&access_token=pk.eyJ1IjoiY2hyaXNhdG1hcCIsImEiOiJjbHFkanRndW8wNjA3MmpudXd6MnZqNDIzIn0.j2jlIdifM0ESvNBNlKXQ-A&zoomwheel=false#10.44/48.8682/2.3152" title="Monochrome" style="border:none;"></iframe>    |          |
-|----------|----------------------------------------|
-|  Address | 16 rue Washington  75015 Paris  France |
-| Visiting | M1: Georges V                          |
 
 <tr>
         <td><div>
