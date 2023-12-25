@@ -10,8 +10,11 @@ He has worked as an in-house lawyer and business developer for the French <a hre
 
 
 <tr>
-        <td><div>
-        <iframe class="tabContent" name="tabIframe2" frameborder="0" src="https://api.mapbox.com/styles/v1/chrisatmap/clqdjwxk300dw01qv1mu6cx9m.html?title=false&access_token=pk.eyJ1IjoiY2hyaXNhdG1hcCIsImEiOiJjbHFkanRndW8wNjA3MmpudXd6MnZqNDIzIn0.j2jlIdifM0ESvNBNlKXQ-A&zoomwheel=false#10.44/48.8682/2.3152" title="Monochrome" style="border:none;">
-        </iframe>
-        </div></td>
+<div style="display: flex; align-items: center;">
+    <iframe class="tabContent" name="tabIframe2" frameborder="0" src="https://api.mapbox.com/styles/v1/chrisatmap/clqdjwxk300dw01qv1mu6cx9m.html?title=false&access_token=pk.eyJ1IjoiY2hyaXNhdG1hcCIsImEiOiJjbHFkanRndW8wNjA3MmpudXd6MnZqNDIzIn0.j2jlIdifM0ESvNBNlKXQ-A&zoomwheel=false#10.44/48.8682/2.3152" title="Monochrome" style="border:none;"></iframe>
+    <p style="margin-left: 10px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sagittis nunc eu est blandit, a pharetra dui tristique.</p>
+</div>
+
     </tr>
+
+    
