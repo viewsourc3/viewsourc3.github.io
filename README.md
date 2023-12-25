@@ -13,3 +13,10 @@ He has worked as an in-house lawyer and business developer for the French <a hre
 |----------|----------------------------------------|
 |  Address | 16 rue Washington  75015 Paris  France |
 | Visiting | M1: Georges V                          |
+
+<tr>
+        <td><div>
+        <iframe class="tabContent" name="tabIframe2" frameborder="0" src="https://api.mapbox.com/styles/v1/chrisatmap/clqdjwxk300dw01qv1mu6cx9m.html?title=false&access_token=pk.eyJ1IjoiY2hyaXNhdG1hcCIsImEiOiJjbHFkanRndW8wNjA3MmpudXd6MnZqNDIzIn0.j2jlIdifM0ESvNBNlKXQ-A&zoomwheel=false#10.44/48.8682/2.3152" title="Monochrome" style="border:none;">
+        </iframe>
+        </div></td>
+    </tr>
