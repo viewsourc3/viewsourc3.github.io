@@ -16,13 +16,13 @@ He has worked as an in-house lawyer and business developer for the French <a hre
             title="Monochrome" style="border:none; width: 400px; height: 300px;"></iframe>
     <table style="margin-left: 10px;">
         <tr>
-            <td>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
+            <td style="border: 1px solid white;">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</td>
         </tr>
         <tr>
-            <td>Proin sagittis nunc eu est blandit, a pharetra dui tristique.</td>
+            <td style="border: 1px solid white;">Proin sagittis nunc eu est blandit, a pharetra dui tristique.</td>
         </tr>
         <tr>
-            <td>Integer in ex sit amet lacus varius fermentum nec in quam.</td>
+            <td style="border: 1px solid white;">Integer in ex sit amet lacus varius fermentum nec in quam.</td>
         </tr>
     </table>
 </div>
