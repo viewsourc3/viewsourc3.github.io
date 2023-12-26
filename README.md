@@ -10,9 +10,6 @@ He has worked as an in-house lawyer and business developer for the French <a hre
 <br>
 <br>
 
-<span style="color:grey">CONTACT</span> <br>
-
-
 
 <tr>
 <div style="display: flex; align-items: center;">
