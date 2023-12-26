@@ -19,9 +19,7 @@ Christophe has a background in computer science from the <a href="https://www.au
 
 He has worked as an in-house lawyer and business developer for the French <a href="https://list.cea.fr/en/digital-trust-building-a-more-secure-digital-world/">Atomic and Alternative Energy Commission</a> around the topics of digital trust and currently works for <a href="https://en.innovasjonnorge.no">Innovation Norway</a>, supporting French competitiveness through French-Norwegian collaboration.
 
-<br>
-<br>
-
+<p><strong>text-indent: 30px;</strong></p>
 
 <tr>
 <div style="display: flex; align-items: center;">
@@ -45,6 +43,12 @@ He has worked as an in-house lawyer and business developer for the French <a hre
         </tr>
     </table>
 </div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
 </tr>
 
     
