@@ -21,7 +21,7 @@ He has worked as an in-house lawyer and business developer for the French <a hre
         </tr>
         <tr>
             <td style="border: 1px solid #f2f2f2;"><span style="color:grey">ADDRESS</span></td>
-            <td style="border: 1px solid #f2f2f2;">16 rue Washington <br> 75008 Paris <br> France </td>        
+            <td style="border: 1px solid #f2f2f2;">16 r. Washington<br>75008 Paris<br>France</td>        
         </tr>
         <tr>
             <td style="border: 1px solid #f2f2f2;"><span style="color:grey">VISITING</span></td>
