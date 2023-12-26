@@ -7,6 +7,18 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
+    <!-- Squeaky Tracking Code for https://slim.page -->
+<script>
+  (function(s,q,e,a,u,k,y){
+    s._sqSettings={site_id:'4d4a3660-d01b-4e2f-b2c3-4c860d4bac58'};
+    u=q.getElementsByTagName('head')[0];
+    k=q.createElement('script');
+    k.src=e+s._sqSettings.site_id;
+    u.appendChild(k);
+  })(window,document,'https://cdn.squeaky.ai/g/0.4.0/script.js?');
+</script>
+
+    
 {% seo %}
     {% include head-custom.html %}
   </head>
@@ -23,12 +35,7 @@
           <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
           <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
 
-          {% if site.show_downloads %}
-            <section id="downloads">
-              <a class="zip_download_link" href="{{ site.github.zip_url }}">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="{{ site.github.tar_url }}">Download this project as a tar.gz file</a>
-            </section>
-          {% endif %}
+     Tagline here
         </header>
     </div>
 
