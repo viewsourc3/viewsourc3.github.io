@@ -1,3 +1,8 @@
+<head> 
+<script src="https://kit.fontawesome.com/aeb7c89902.js" crossorigin="anonymous"></script>
+</head>
+
+
 Christophe has a background in computer science from the <a href="https://www.aup.edu/">American University of Paris</a> as well as in IT/IP law from the <a href="https://www.universite-paris-saclay.fr/en">University of Paris Saclay</a>.
 
 He has worked as an in-house lawyer and business developer for the French <a href="https://list.cea.fr/en/digital-trust-building-a-more-secure-digital-world/">Atomic and Alternative Energy Commission</a> around the topics of digital trust and currently works for <a href="https://en.innovasjonnorge.no">Innovation Norway</a>, supporting French competitiveness through French-Norwegian collaboration.
@@ -17,7 +22,7 @@ He has worked as an in-house lawyer and business developer for the French <a hre
     <table style="margin-left: 10px;">
         <tr>
             <td style="border: 1px solid #f2f2f2;"><span style="color:grey">MAIL</span></td>
-            <td style="border: 1px solid #f2f2f2;">first.last@xxx.no</td>
+            <td style="border: 1px solid #f2f2f2;">first.last@innovationnorway.no</td>
         </tr>
         <tr>
             <td style="border: 1px solid #f2f2f2;"><span style="color:grey">ADDRESS</span></td>
@@ -25,7 +30,7 @@ He has worked as an in-house lawyer and business developer for the French <a hre
         </tr>
         <tr>
             <td style="border: 1px solid #f2f2f2;"><span style="color:grey">VISITING</span></td>
-            <td style="border: 1px solid #f2f2f2;">M.1 Victor Hugo </td>        
+            <td style="border: 1px solid #f2f2f2;">M.1 Victor Hugo <br> <i class="fa-solid fa-train-subway"></i> </td>        
         </tr>
     </table>
 </div>
