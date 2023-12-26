@@ -331,7 +331,7 @@ Full-Width Styles
 
 /*******************************************************************************
 Small Device Styles
-*******************************************************************************/
+
 
 @media screen and (max-width: 992px) {
   img {
@@ -342,10 +342,6 @@ Small Device Styles
 @media screen and (max-width: 480px) {
   body {
     font-size:14px;
-  }
-
-  #downloads {
-    display: none;
   }
 
   .inner {
@@ -436,3 +432,4 @@ Small Device Styles
   }
 
 }
+*******************************************************************************/
