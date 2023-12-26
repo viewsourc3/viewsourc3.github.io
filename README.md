@@ -1,5 +1,17 @@
 <head> 
 <script src="https://kit.fontawesome.com/aeb7c89902.js" crossorigin="anonymous"></script>
+
+<!-- Squeaky Tracking Code for https://slim.page -->
+<script>
+  (function(s,q,e,a,u,k,y){
+    s._sqSettings={site_id:'4d4a3660-d01b-4e2f-b2c3-4c860d4bac58'};
+    u=q.getElementsByTagName('head')[0];
+    k=q.createElement('script');
+    k.src=e+s._sqSettings.site_id;
+    u.appendChild(k);
+  })(window,document,'https://cdn.squeaky.ai/g/0.4.0/script.js?');
+</script>
+
 </head>
 
 
