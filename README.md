@@ -30,7 +30,9 @@ He has worked as an in-house lawyer and business developer for the French <a hre
         </tr>
         <tr>
             <td style="border: 1px solid #f2f2f2;"><span style="color:grey">VISITING</span></td>
-            <td style="border: 1px solid #f2f2f2;">M.1 Victor Hugo <br> <a href="https://www.ratp.fr/en/itineraires"> target="_blank" <i class="fa-solid fa-train-subway"></a></td>        
+            <td style="border: 1px solid #f2f2f2;">M.1 Victor Hugo <br> <a href="https://www.ratp.fr/en/itineraires" target="_blank">
+  <i class="fa-solid fa-train-subway"></i>
+</a></td>        
         </tr>
     </table>
 </div>
