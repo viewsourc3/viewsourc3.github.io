@@ -16,15 +16,15 @@ He has worked as an in-house lawyer and business developer for the French <a hre
             title="Monochrome" style="border:none; width: 400px; height: 300px;"></iframe>
     <table style="margin-left: 10px;">
         <tr>
-            <td style="border: 1px solid #f2f2f2;"><span style="color:grey">CONTACT</span> MAIL</td>
+            <td style="border: 1px solid #f2f2f2;"><span style="color:grey">MAIL</span></td>
             <td style="border: 1px solid #f2f2f2;">first.last@xxx.no</td>
         </tr>
         <tr>
-            <td style="border: 1px solid #f2f2f2;"><span style="color:grey">CONTACT</span> Address</td>
+            <td style="border: 1px solid #f2f2f2;"><span style="color:grey">ADDRESS</span></td>
             <td style="border: 1px solid #f2f2f2;">16 rue Washington <br> 75008 Paris <br> France </td>        
         </tr>
         <tr>
-            <td style="border: 1px solid #f2f2f2;"><span style="color:grey">CONTACT</span> Visiting</td>
+            <td style="border: 1px solid #f2f2f2;"><span style="color:grey">VISITING</span></td>
             <td style="border: 1px solid #f2f2f2;">M.1 Victor Hugo </td>        
         </tr>
     </table>
